@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=4.0.0.4
+Name=AttraCoin Core Client
+Comment=AttraCoin Graphical UI
+Categories=Network;
+Exec=/usr/local/bin/attracoin
+Icon=/usr/share/pixmaps/attracoin.png
+Terminal=false
+Type=Application

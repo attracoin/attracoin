@@ -1,0 +1,9 @@
+Compiling / integration for AttraCoin in to your Platform
+
+See doc/readme-qt.rst for instructions on building AttraCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AttraCoin.
+
+See doc/build-*.txt for instructions on building attracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AttraCoin.
