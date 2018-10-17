@@ -1,6 +1,8 @@
-![AttraCoin-OK](https://attracoin.com/src/img/attra2.png)
+![AttraCoin](https://attracoin.com/src/img/attra2.png)
 
 # AttraCoin
+
+For more information, you can visit the homepage at www.attracoin.com
 
 -------------------
 
